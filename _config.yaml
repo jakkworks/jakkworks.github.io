@@ -3,7 +3,7 @@ description: >
   Jakk design portfolio
 
 colors:
-  - name: black
+  - name: dark-grey
     R: 80
     G: 80
     B: 80
