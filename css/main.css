@@ -5,8 +5,12 @@
 
 /* Spacing */
 
-body, #portfolio li div {
+body {
   padding: 50px;
+}
+
+#portfolio li div {
+  margin: 50px;
 }
 
 footer {

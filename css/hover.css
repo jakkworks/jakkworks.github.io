@@ -1,0 +1,50 @@
+/* Font styles for hover text */
+#portfolio li p {
+  font-family: "Helvetica", "Arial", sans-serif;
+  /* font-family: "Inter"; */
+  font-size: 24px;
+}
+
+/* Hover fade in/out speed */
+
+#portfolio li p, #portfolio li img {
+  transition-property: opacity;
+  transition-duration: 0.25s;
+  transition-delay: 0s;
+}
+
+/* Opacity of text and image: 1 means 100% */
+
+#portfolio li p {
+  opacity: 0;
+}
+
+#portfolio li img {
+  opacity: 1;
+}
+
+#portfolio li:hover p {
+  opacity: 1;
+}
+
+#portfolio li:hover img {
+  opacity: 0.5;
+}
+
+/* Vertically and center aligning text */
+
+#portfolio li div {
+  position: relative;
+}
+
+#portfolio li p {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  z-index: 1;
+}
