@@ -1,6 +1,6 @@
-title: Jakkworks Design
+title: Jakk design
 description: >
-  Jakkworks design portfolio
+  Jakk design portfolio
 
 colors:
   - name: black
@@ -25,8 +25,8 @@ portfolio:
     color: light-grey
     description: Realistic render
   - image: realism-2.png
-    color: brown
+    color: light-grey
     description: Another realistic render
   - image: kbdfans.png
-    color: mint
+    color: light-grey
     description: A build by KBDFans
