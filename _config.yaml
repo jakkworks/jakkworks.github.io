@@ -25,14 +25,14 @@ colors:
     B: 213
 portfolio:
   - image: realism-1.png
-    color: light-grey
+    color: Beige
     description: Pillow65 by Kelium Works
   - image: realism-2.png
-    color: light-grey
+    color: Beige
     description: Koyu by Rama Works
   - image: kbdfans.png
-    color: light-grey
+    color: Beige
     description: D60 Lite by KBDFans
   - image: the-key-company.png
-    color: light-grey
+    color: Beige
     description: M0LLY By The Key Company
