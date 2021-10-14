@@ -4,9 +4,9 @@ description: >
 
 colors:
   - name: black
-    R: 0
-    G: 0
-    B: 0
+    R: 80
+    G: 80
+    B: 80
   - name: brown
     R: 61
     G: 54
