@@ -23,7 +23,7 @@ colors:
 portfolio:
   - image: realism-1.png
     color: light-grey
-    description: Realistic render
+    description: Pillow65 by Kelium Works
   - image: realism-2.png
     color: light-grey
     description: Another realistic render
