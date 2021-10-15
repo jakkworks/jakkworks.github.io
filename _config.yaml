@@ -24,7 +24,7 @@ colors:
     G: 232
     B: 225
 portfolio:
-  - image: render.png
+  - image: pillow65.png
     color: Beige
     description: Pillow65 by Kelium Works
   - image: realism-2.png
