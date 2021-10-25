@@ -22,7 +22,7 @@
   </head>
   <body>
     <ol id="portfolio">
-      {% for item in site.portfolio %}
+      {% for item in page.portfolio %}
       <li class="{% cycle "first": "full-row", "", "" %} {{ item.color }}">
         <div>
           <p>{{ item.description }}</p>
