@@ -1,0 +1,39 @@
+body {
+  padding-top: 150px;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right:0;
+  z-index: 2;
+  height: 150px;
+  background: rgba(255, 255, 255, 0.95);
+  overflow: hidden;
+}
+
+header h1 {
+  width: 100px;
+  height: 100px;
+  margin: 25px auto;
+  border-radius: 100px;
+  overflow: hidden;
+}
+
+header h1 img {
+  width: 100%;
+  height: auto;
+}
+
+header li {
+  display: inline-block;
+  padding: 0 10px;
+}
+
+header #nav {
+  position: absolute;
+  top: 0;
+  right: 0;
+  padding: 50px;
+}
