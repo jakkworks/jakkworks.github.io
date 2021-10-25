@@ -1,26 +1,5 @@
 ---
-layout: default
-colors:
-  - name: dark-grey
-    R: 80
-    G: 80
-    B: 80
-  - name: brown
-    R: 61
-    G: 54
-    B: 51
-  - name: mint
-    R: 189
-    G: 227 
-    B: 188
-  - name: light-grey
-    R: 240
-    G: 240
-    B: 240
-  - name: Beige
-    R: 235
-    G: 232
-    B: 225
+layout: list
 portfolio:
   - image: realism-2.png
     color: Beige
