@@ -1,0 +1,37 @@
+---
+layout: default
+colors:
+  - name: dark-grey
+    R: 80
+    G: 80
+    B: 80
+  - name: brown
+    R: 61
+    G: 54
+    B: 51
+  - name: mint
+    R: 189
+    G: 227 
+    B: 188
+  - name: light-grey
+    R: 240
+    G: 240
+    B: 240
+  - name: Beige
+    R: 235
+    G: 232
+    B: 225
+portfolio:
+  - image: realism-2.png
+    color: Beige
+    description: Koyu by Rama Works
+  - image: pillow65.png
+    color: dark-grey 
+    description: Pillow65 by Kelium Works
+  - image: kbdfans.png
+    color: Beige
+    description: D60 Lite by KBDFans
+  - image: saka68.png
+    color: Beige
+    description: Saka68 By CMM Studio
+---
