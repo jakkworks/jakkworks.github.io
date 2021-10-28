@@ -31,7 +31,7 @@ header h1 img {
   height: auto;
 }
 
-header li a{
+header p{
   display: inline-block;
   padding: 0 10px;
   font-family: 'Questa-Grande';
