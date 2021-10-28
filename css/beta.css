@@ -29,11 +29,9 @@ header h1 img {
   height: auto;
 }
 
-header li a{
+header li {
   display: inline-block;
   padding: 0 10px;
-  font-family: 'Questa-Grande';
-  color: #633b3b;
 }
 
 header #nav {
