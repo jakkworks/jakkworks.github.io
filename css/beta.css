@@ -38,6 +38,8 @@ header p{
   padding: 0 10px;
   font-family: 'Questa-Grande';
   color: #633b3b;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 header #nav {
