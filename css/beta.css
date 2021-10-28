@@ -29,6 +29,8 @@ header h1 img {
 header li {
   display: inline-block;
   padding: 0 10px;
+  font-family: 'Questa-Grande';
+  color: #633b3b;
 }
 
 header #nav {
@@ -36,6 +38,4 @@ header #nav {
   top: 0;
   right: 0;
   padding: 50px;
-  font-family: 'Questa-Grande';
-  color: #633b3b;
 }
