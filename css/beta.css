@@ -48,4 +48,6 @@ header #nav {
 .boxed {
   background: #33312e;
   padding: 15px;
+  color: #33312e;
+  foreground: #33312e;
 }
