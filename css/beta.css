@@ -26,7 +26,7 @@ header h1 img {
   height: auto;
 }
 
-header li {
+header li a{
   display: inline-block;
   padding: 0 10px;
   font-family: 'Questa-Grande';
