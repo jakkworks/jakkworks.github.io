@@ -51,4 +51,5 @@ header #nav {
   color: #4a3841;
   foreground: #33312e;
   border-radius: 15px;
+  text-decoration: none;
 }
