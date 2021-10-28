@@ -46,6 +46,6 @@ header #nav {
 }
 
 .boxed {
-  background-color:#33312e;
-  color: #ede5d8;
+  background: #33312e;
+  padding: 15px;
 }
