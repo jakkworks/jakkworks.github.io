@@ -43,11 +43,15 @@ header p{
   padding-top: 20px;
 }
 
-header #nav {
+header nav {
   position: absolute;
   top: 0;
   right: 0;
   padding: 50px;
+}
+
+header nav.open {
+  background: rgb(0, 0, 100);
 }
 
 .boxed {

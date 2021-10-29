@@ -17,16 +17,21 @@
       {% endfor %}
     </style>
     <style>
-  @import url("https://use.typekit.net/clz6ews.css");
-</style>
+      @import url("https://use.typekit.net/clz6ews.css");
+    </style>
   </head>
   <body>
     <header>
       <h1><img src="/images/logo.png" alt="{{ site.title }}"></h1>
-      <ol id="nav">
-        <p><a href="/" class="boxed">Home</a></li>
-        <p><a href="/projects" class="boxed">Projects</a></li>
-      </ol>
+      <nav>
+        <button>
+          Menu
+        </button>
+        <ol>
+          <p><a href="/" class="boxed">Home</a></li>
+          <p><a href="/projects" class="boxed">Projects</a></li>
+        </ol>
+      </nav>
     </header>
     <ol id="portfolio">
       {% for item in page.portfolio %}
@@ -41,5 +46,11 @@
     <footer>
       <h1><img src="/images/logo.png" alt="{{ site.title }}"></h1>
     </footer>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+    <script>
+      $('nav button').click(function(){
+          $('nav').toggleClass('open');
+      });
+    </script>
   </body>
 </html>
